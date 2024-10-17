@@ -1,6 +1,6 @@
 # Notulen overleg onderzoeksbureau's digitale toegankelijkheid Nederland. 
  
-Deze notulen zij geschreven als [GitHub issues](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues), voel je vrij om mee te discusseren bij de comments.
+Deze notulen zijn geschreven als [GitHub issues](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues), voel je vrij om mee te discussiëren bij de comments.
 
 Overzicht notulen:
 - [15 oktober 2024](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues/6)
