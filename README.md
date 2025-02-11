@@ -3,6 +3,7 @@
 Deze notulen zijn geschreven als [GitHub issues](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues), voel je vrij om mee te discussiëren bij de comments.
 
 Overzicht notulen:
+- [11 februari 2025](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues/9)
 - [7 januari 2025](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues/8)
 - [19 november 2024, extra overleg omtrent deelonderzoeken](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues/7)
 - [15 oktober 2024](https://github.com/WCAG-Audit-Discussions/notulen-obnl/issues/6)
